@@ -39,7 +39,7 @@
 						form.append('latitude', position.coords.latitude)
 						form.append('longitude',position.coords.longitude)
 
-						axios.post('http://192.168.0.13:4000/api/v1/add_maps', form)
+						axios.post('https://api.skyle.kr/api/v1/add_maps', form)
 						.then(function(response) {
 							console.log(response);
 							console.log(response.data);
