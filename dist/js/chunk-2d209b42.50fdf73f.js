@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d209b42"],{a9d8:function(n,o,a){"use strict";a.r(o);var i,c,e={created:function(){$cookies.isKey("token")?location.hash="#/main":location.hash="#/sign-in"}},s=e,t=a("2877"),l=Object(t["a"])(s,i,c,!1,null,null,null);o["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d209b42.50fdf73f.js.map
